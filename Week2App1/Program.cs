@@ -27,6 +27,39 @@
             Console.WriteLine("Division result: "+ resultDivision);
 
             Console.WriteLine("Hello World");
+            // Console.WriteLine($"Addition result: {resultSum}");
+
+            float bigResult1;
+            float bigResult2;
+
+            if (resultSum>resultMinus)
+            {
+                bigResult1 = resultSum;
+            }
+            else
+            {
+                bigResult1 = resultMinus;
+            }
+
+            if (resultMuliply>resultDivision)
+            {
+                bigResult2 = resultMuliply;
+            }
+            else
+            {
+                bigResult2 = resultDivision;
+            }
+
+            if (bigResult1>bigResult2)
+            {
+                bigResult1 = bigResult1;
+            }
+            else
+            {
+                bigResult1 = bigResult2;
+            }
+
+            Console.WriteLine(bigResult1);
 
 
 
