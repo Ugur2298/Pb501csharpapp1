@@ -1,0 +1,15 @@
+C:\Users\ughurvg\Desktop\PB501 Projects\week3day4 app\week3day4 app\bin\Debug\net7.0\week3day4 app.exe
+C:\Users\ughurvg\Desktop\PB501 Projects\week3day4 app\week3day4 app\bin\Debug\net7.0\week3day4 app.deps.json
+C:\Users\ughurvg\Desktop\PB501 Projects\week3day4 app\week3day4 app\bin\Debug\net7.0\week3day4 app.runtimeconfig.json
+C:\Users\ughurvg\Desktop\PB501 Projects\week3day4 app\week3day4 app\bin\Debug\net7.0\week3day4 app.dll
+C:\Users\ughurvg\Desktop\PB501 Projects\week3day4 app\week3day4 app\bin\Debug\net7.0\week3day4 app.pdb
+C:\Users\ughurvg\Desktop\PB501 Projects\week3day4 app\week3day4 app\obj\Debug\net7.0\week3day4 app.csproj.AssemblyReference.cache
+C:\Users\ughurvg\Desktop\PB501 Projects\week3day4 app\week3day4 app\obj\Debug\net7.0\week3day4 app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ughurvg\Desktop\PB501 Projects\week3day4 app\week3day4 app\obj\Debug\net7.0\week3day4 app.AssemblyInfoInputs.cache
+C:\Users\ughurvg\Desktop\PB501 Projects\week3day4 app\week3day4 app\obj\Debug\net7.0\week3day4 app.AssemblyInfo.cs
+C:\Users\ughurvg\Desktop\PB501 Projects\week3day4 app\week3day4 app\obj\Debug\net7.0\week3day4 app.csproj.CoreCompileInputs.cache
+C:\Users\ughurvg\Desktop\PB501 Projects\week3day4 app\week3day4 app\obj\Debug\net7.0\week3day4 app.dll
+C:\Users\ughurvg\Desktop\PB501 Projects\week3day4 app\week3day4 app\obj\Debug\net7.0\refint\week3day4 app.dll
+C:\Users\ughurvg\Desktop\PB501 Projects\week3day4 app\week3day4 app\obj\Debug\net7.0\week3day4 app.pdb
+C:\Users\ughurvg\Desktop\PB501 Projects\week3day4 app\week3day4 app\obj\Debug\net7.0\week3day4 app.genruntimeconfig.cache
+C:\Users\ughurvg\Desktop\PB501 Projects\week3day4 app\week3day4 app\obj\Debug\net7.0\ref\week3day4 app.dll
