@@ -97,28 +97,31 @@
             //    Console.WriteLine();
             //}
 
-            Console.WriteLine("Telebelerin siyahisini daxil edin:");
-            int studentCount = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Telebelerin siyahisini daxil edin:");
+            //int studentCount = int.Parse(Console.ReadLine());
 
-            string[] studentList = new string[studentCount];
-
-            for (int i = 0; i < studentCount; i++)
-            {
-                string studentName = Console.ReadLine();
-                studentList[i] = studentName;
-
-            }
-            Console.WriteLine("*****");
+            //string[] studentList = new string[studentCount];
 
             //for (int i = 0; i < studentCount; i++)
             //{
-            //    Console.Write("Students name:"+ studentList[i] );
+            //    string studentName = Console.ReadLine();
+            //    studentList[i] = studentName;
+
+            //}
+            //Console.WriteLine("*****");
+
+            ////first variant
+            //for (int i = 0; i < studentCount; i++)
+            //{
+            //    Console.Write("Students name:" + studentList[i]);
             //}
 
-            foreach (var item in studentList)
-            {
-                Console.WriteLine(item);
-            }
+
+            ////second variant
+            //foreach (var item in studentList)
+            //{
+            //    Console.WriteLine(item);
+            //}
 
         }
     }
