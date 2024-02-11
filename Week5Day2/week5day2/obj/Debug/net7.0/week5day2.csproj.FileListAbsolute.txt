@@ -1,0 +1,15 @@
+C:\Users\ughurvg\Desktop\PB501 Projects\Week5Day2\week5day2\bin\Debug\net7.0\week5day2.exe
+C:\Users\ughurvg\Desktop\PB501 Projects\Week5Day2\week5day2\bin\Debug\net7.0\week5day2.deps.json
+C:\Users\ughurvg\Desktop\PB501 Projects\Week5Day2\week5day2\bin\Debug\net7.0\week5day2.runtimeconfig.json
+C:\Users\ughurvg\Desktop\PB501 Projects\Week5Day2\week5day2\bin\Debug\net7.0\week5day2.dll
+C:\Users\ughurvg\Desktop\PB501 Projects\Week5Day2\week5day2\bin\Debug\net7.0\week5day2.pdb
+C:\Users\ughurvg\Desktop\PB501 Projects\Week5Day2\week5day2\obj\Debug\net7.0\week5day2.csproj.AssemblyReference.cache
+C:\Users\ughurvg\Desktop\PB501 Projects\Week5Day2\week5day2\obj\Debug\net7.0\week5day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ughurvg\Desktop\PB501 Projects\Week5Day2\week5day2\obj\Debug\net7.0\week5day2.AssemblyInfoInputs.cache
+C:\Users\ughurvg\Desktop\PB501 Projects\Week5Day2\week5day2\obj\Debug\net7.0\week5day2.AssemblyInfo.cs
+C:\Users\ughurvg\Desktop\PB501 Projects\Week5Day2\week5day2\obj\Debug\net7.0\week5day2.csproj.CoreCompileInputs.cache
+C:\Users\ughurvg\Desktop\PB501 Projects\Week5Day2\week5day2\obj\Debug\net7.0\week5day2.dll
+C:\Users\ughurvg\Desktop\PB501 Projects\Week5Day2\week5day2\obj\Debug\net7.0\refint\week5day2.dll
+C:\Users\ughurvg\Desktop\PB501 Projects\Week5Day2\week5day2\obj\Debug\net7.0\week5day2.pdb
+C:\Users\ughurvg\Desktop\PB501 Projects\Week5Day2\week5day2\obj\Debug\net7.0\week5day2.genruntimeconfig.cache
+C:\Users\ughurvg\Desktop\PB501 Projects\Week5Day2\week5day2\obj\Debug\net7.0\ref\week5day2.dll

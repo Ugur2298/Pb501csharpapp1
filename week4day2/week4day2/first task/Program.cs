@@ -86,6 +86,17 @@ namespace tasks
         //    }
 
         //}
+        
+    }
+    public static void Reverse() 
+    {
+        string[] names = { "Ugur", "Semra", "Rustem" };
 
+        for (int i = names.length; i >=0 ; i--)
+        {
+           
         }
+    }
+
+       
 }

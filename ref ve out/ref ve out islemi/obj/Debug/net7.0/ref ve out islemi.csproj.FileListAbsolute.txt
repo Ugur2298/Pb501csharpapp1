@@ -1,0 +1,15 @@
+C:\Users\ughurvg\Desktop\PB501 Projects\ref ve out\ref ve out islemi\bin\Debug\net7.0\ref ve out islemi.exe
+C:\Users\ughurvg\Desktop\PB501 Projects\ref ve out\ref ve out islemi\bin\Debug\net7.0\ref ve out islemi.deps.json
+C:\Users\ughurvg\Desktop\PB501 Projects\ref ve out\ref ve out islemi\bin\Debug\net7.0\ref ve out islemi.runtimeconfig.json
+C:\Users\ughurvg\Desktop\PB501 Projects\ref ve out\ref ve out islemi\bin\Debug\net7.0\ref ve out islemi.dll
+C:\Users\ughurvg\Desktop\PB501 Projects\ref ve out\ref ve out islemi\bin\Debug\net7.0\ref ve out islemi.pdb
+C:\Users\ughurvg\Desktop\PB501 Projects\ref ve out\ref ve out islemi\obj\Debug\net7.0\ref ve out islemi.csproj.AssemblyReference.cache
+C:\Users\ughurvg\Desktop\PB501 Projects\ref ve out\ref ve out islemi\obj\Debug\net7.0\ref ve out islemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ughurvg\Desktop\PB501 Projects\ref ve out\ref ve out islemi\obj\Debug\net7.0\ref ve out islemi.AssemblyInfoInputs.cache
+C:\Users\ughurvg\Desktop\PB501 Projects\ref ve out\ref ve out islemi\obj\Debug\net7.0\ref ve out islemi.AssemblyInfo.cs
+C:\Users\ughurvg\Desktop\PB501 Projects\ref ve out\ref ve out islemi\obj\Debug\net7.0\ref ve out islemi.csproj.CoreCompileInputs.cache
+C:\Users\ughurvg\Desktop\PB501 Projects\ref ve out\ref ve out islemi\obj\Debug\net7.0\ref ve out islemi.dll
+C:\Users\ughurvg\Desktop\PB501 Projects\ref ve out\ref ve out islemi\obj\Debug\net7.0\refint\ref ve out islemi.dll
+C:\Users\ughurvg\Desktop\PB501 Projects\ref ve out\ref ve out islemi\obj\Debug\net7.0\ref ve out islemi.pdb
+C:\Users\ughurvg\Desktop\PB501 Projects\ref ve out\ref ve out islemi\obj\Debug\net7.0\ref ve out islemi.genruntimeconfig.cache
+C:\Users\ughurvg\Desktop\PB501 Projects\ref ve out\ref ve out islemi\obj\Debug\net7.0\ref\ref ve out islemi.dll
